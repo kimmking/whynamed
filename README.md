@@ -39,7 +39,7 @@ This project will gather all those stories and track their histories.
 - avro
 - blazeds
 - dwr
-- json-rpc
+- [json-rpc](rpc/jsonrpc.md)
 - xml-rpc
 - webservice
 - soap
