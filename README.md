@@ -14,13 +14,13 @@ This project will gather all those stories and track their histories.
 
 ## Web
 
-- nodejs
-- chrome
-- firefox
-- jquery 
-- angularjs 
-- extjs 
-- npm 
+- [nodejs](web/nodejs.md)
+- [chrome](web/chrome.md)
+- [firefox](web/firefox.md)
+- [jquery](web/jquery.md)
+- [angularjs](web/angularjs.md)
+- [extjs](web/extjs.md)
+- [npm](web/npm.md)
 - [bower](web/bower.md)
 - [grunt](web/grunt.md)
 - [jasmine](web/jasmine.md)
@@ -30,6 +30,8 @@ This project will gather all those stories and track their histories.
 - [Qunit](web/qunit.md)
 - [Mocha](web/mocha.md)
 - [gulp](web/gulp.md)
+- wiredep
+
 
 ## RPC
 
